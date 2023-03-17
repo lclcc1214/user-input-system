@@ -1,0 +1,17 @@
+@import '~antd/dist/antd.css';
+
+.border{
+    width: 25rem;
+    height: 15rem;
+    position: absolute;
+    top: 30%;
+    left: 33%;
+    border: 0.1rem solid #efefef;
+    border-radius: 0.5rem;
+    padding: 2rem;
+}
+
+.title{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}

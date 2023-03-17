@@ -1,0 +1,30 @@
+
+#root{
+    height: 100%;
+}
+
+.ant-layout{
+    height: 100%;
+}
+
+.headerTitle{
+    color: white;
+    font-family: '黑体';
+    font-size: large;
+    width: 93%;
+    margin: 0;
+}
+
+.username{
+    color: white;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.avater{
+    margin: 0.1rem;
+    text-align: center;
+}
